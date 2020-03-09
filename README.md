@@ -23,4 +23,5 @@
     - File -> Browse in Explorer
     - Copy wgcf-profile.conf into Config folder 
 > Default is *C:\Program Files\TunSafe\Config*
+
     - Open *TunSafe* and choose *wgcf-profile* in the dropdown menu to connect to Warp+
